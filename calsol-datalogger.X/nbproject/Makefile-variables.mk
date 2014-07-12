@@ -1,0 +1,48 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# Datalogger1.4_Development configuration
+CND_ARTIFACT_DIR_Datalogger1.4_Development=dist/Datalogger1.4_Development/production
+CND_ARTIFACT_NAME_Datalogger1.4_Development=calsol-datalogger.X.production.hex
+CND_ARTIFACT_PATH_Datalogger1.4_Development=dist/Datalogger1.4_Development/production/calsol-datalogger.X.production.hex
+CND_PACKAGE_DIR_Datalogger1.4_Development=${CND_DISTDIR}/Datalogger1.4_Development/package
+CND_PACKAGE_NAME_Datalogger1.4_Development=calsol-datalogger.x.tar
+CND_PACKAGE_PATH_Datalogger1.4_Development=${CND_DISTDIR}/Datalogger1.4_Development/package/calsol-datalogger.x.tar
+# Datalogger1.4_Production configuration
+CND_ARTIFACT_DIR_Datalogger1.4_Production=dist/Datalogger1.4_Production/production
+CND_ARTIFACT_NAME_Datalogger1.4_Production=calsol-datalogger.X.production.hex
+CND_ARTIFACT_PATH_Datalogger1.4_Production=dist/Datalogger1.4_Production/production/calsol-datalogger.X.production.hex
+CND_PACKAGE_DIR_Datalogger1.4_Production=${CND_DISTDIR}/Datalogger1.4_Production/package
+CND_PACKAGE_NAME_Datalogger1.4_Production=calsol-datalogger.x.tar
+CND_PACKAGE_PATH_Datalogger1.4_Production=${CND_DISTDIR}/Datalogger1.4_Production/package/calsol-datalogger.x.tar
+# Datalogger1.2_Development configuration
+CND_ARTIFACT_DIR_Datalogger1.2_Development=dist/Datalogger1.2_Development/production
+CND_ARTIFACT_NAME_Datalogger1.2_Development=calsol-datalogger.X.production.hex
+CND_ARTIFACT_PATH_Datalogger1.2_Development=dist/Datalogger1.2_Development/production/calsol-datalogger.X.production.hex
+CND_PACKAGE_DIR_Datalogger1.2_Development=${CND_DISTDIR}/Datalogger1.2_Development/package
+CND_PACKAGE_NAME_Datalogger1.2_Development=calsol-datalogger.x.tar
+CND_PACKAGE_PATH_Datalogger1.2_Development=${CND_DISTDIR}/Datalogger1.2_Development/package/calsol-datalogger.x.tar
+# Datalogger1.2_Production configuration
+CND_ARTIFACT_DIR_Datalogger1.2_Production=dist/Datalogger1.2_Production/production
+CND_ARTIFACT_NAME_Datalogger1.2_Production=calsol-datalogger.X.production.hex
+CND_ARTIFACT_PATH_Datalogger1.2_Production=dist/Datalogger1.2_Production/production/calsol-datalogger.X.production.hex
+CND_PACKAGE_DIR_Datalogger1.2_Production=${CND_DISTDIR}/Datalogger1.2_Production/package
+CND_PACKAGE_NAME_Datalogger1.2_Production=calsol-datalogger.x.tar
+CND_PACKAGE_PATH_Datalogger1.2_Production=${CND_DISTDIR}/Datalogger1.2_Production/package/calsol-datalogger.x.tar
+# CanBridge_Development configuration
+CND_ARTIFACT_DIR_CanBridge_Development=dist/CanBridge_Development/production
+CND_ARTIFACT_NAME_CanBridge_Development=calsol-datalogger.X.production.hex
+CND_ARTIFACT_PATH_CanBridge_Development=dist/CanBridge_Development/production/calsol-datalogger.X.production.hex
+CND_PACKAGE_DIR_CanBridge_Development=${CND_DISTDIR}/CanBridge_Development/package
+CND_PACKAGE_NAME_CanBridge_Development=calsol-datalogger.x.tar
+CND_PACKAGE_PATH_CanBridge_Development=${CND_DISTDIR}/CanBridge_Development/package/calsol-datalogger.x.tar
+# CanBridge_Production configuration
+CND_ARTIFACT_DIR_CanBridge_Production=dist/CanBridge_Production/production
+CND_ARTIFACT_NAME_CanBridge_Production=calsol-datalogger.X.production.hex
+CND_ARTIFACT_PATH_CanBridge_Production=dist/CanBridge_Production/production/calsol-datalogger.X.production.hex
+CND_PACKAGE_DIR_CanBridge_Production=${CND_DISTDIR}/CanBridge_Production/package
+CND_PACKAGE_NAME_CanBridge_Production=calsol-datalogger.x.tar
+CND_PACKAGE_PATH_CanBridge_Production=${CND_DISTDIR}/CanBridge_Production/package/calsol-datalogger.x.tar
